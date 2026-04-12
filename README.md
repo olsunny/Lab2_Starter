@@ -1,2 +1,2 @@
 # Lab 2 - Starter
-[HTML file](https://<username>.github.io/Lab2_Starter/)
+[HTML file](https://olsunny.github.io/Lab2_Starter/)
